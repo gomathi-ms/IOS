@@ -1,4 +1,6 @@
 import UIKit
 
 var greeting = "Hello, playground"
-var name ="IOS"
+var name ="IOS- Mobile Computing"
+
+
